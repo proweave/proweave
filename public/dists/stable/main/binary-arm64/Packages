@@ -1,9 +1,9 @@
 Package: proweave-presenter
-Version: 1.1.5
+Version: 1.1.6
 Section: sound
 Priority: optional
 Architecture: arm64
-Installed-Size: 78940
+Installed-Size: 79048
 Maintainer: ProWeave <support@proweave.app>
 Homepage: https://proweave.app
 Depends: libgtk-3-0 | libgtk-3-0t64, libwebkit2gtk-4.1-0, libayatana-appindicator3-1, libportaudio2, libasound2-plugins, libopenblas0-pthread, hicolor-icon-theme, xdg-utils, desktop-file-utils, libavahi-client3, libavahi-common3, avahi-daemon, gstreamer1.0-tools, gstreamer1.0-libav, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, gstreamer1.0-plugins-bad, gstreamer1.0-plugins-ugly, gstreamer1.0-gl, gstreamer1.0-gtk3, gstreamer1.0-pulseaudio
@@ -11,7 +11,7 @@ Recommends: ffmpeg
 Description: presentation software for churches and live services
  ProWeave Presenter combines slide, song, Bible, media, remote-control, and
  optional on-device speech-recognition workflows in one desktop application.
-Filename: pool/main/p/proweave-presenter/ProWeavePresenter-linux-arm64-v1.1.5.deb
-Size: 33691058
-SHA256: f1e4309fb2e6a179230dad887de6e48b4333466f17ae8b61dd6043ad0d1dfd0a
-SHA512: a5d7a35e37ae785030acc971df8aa2ca60ab66b2809702a63b12ee4792ff73cd3153e6767b23f8facc274916730b07b5135612ad826687c25c548ce5f5251ea5
+Filename: pool/main/p/proweave-presenter/ProWeavePresenter-linux-arm64-v1.1.6.deb
+Size: 33730210
+SHA256: 4f9ca61501bd1d4df48b78b0016f45c1093f9a4e65d933765e96e2603db091b8
+SHA512: 1eb7946be126831b9e518f1609a4e1dd584e7f3283f528326a032ca1c3b664cf9f4404e9f621e17a5d2a15deff33e257369985e6994c114fcb87b8a79537fe41
