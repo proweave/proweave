@@ -2,8 +2,8 @@ Origin: ProWeave
 Label: ProWeave Presenter
 Suite: stable
 Codename: stable
-Date: Sat, 17 Oct 2026 18:58:41 GMT
-Valid-Until: Fri, 15 Jan 2027 18:58:41 GMT
+Date: Sat, 17 Oct 2026 19:08:58 GMT
+Valid-Until: Fri, 15 Jan 2027 19:08:58 GMT
 Acquire-By-Hash: yes
 Architectures: amd64 arm64
 Components: main
