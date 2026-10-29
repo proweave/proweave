@@ -1,0 +1,17 @@
+Package: proweave-presenter
+Version: 1.2.6
+Section: sound
+Priority: optional
+Architecture: amd64
+Installed-Size: 251976
+Maintainer: SundayAssist <info@sundayassist.com>
+Homepage: https://sundayassist.com
+Depends: libgtk-3-0 | libgtk-3-0t64, libwebkit2gtk-4.1-0, libayatana-appindicator3-1, libportaudio2, libasound2-plugins, libopenblas0-pthread, libsecret-tools, hicolor-icon-theme, xdg-utils, desktop-file-utils, libavahi-client3, libavahi-common3, avahi-daemon, gstreamer1.0-tools, gstreamer1.0-libav, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, gstreamer1.0-plugins-bad, gstreamer1.0-plugins-ugly, gstreamer1.0-gl, gstreamer1.0-gtk3, gstreamer1.0-pulseaudio
+Recommends: ffmpeg
+Description: presentation software for churches and live services
+ SundayAssist Presenter combines slide, song, Bible, media, remote-control, and
+ optional on-device speech-recognition workflows in one desktop application.
+Filename: pool/main/p/proweave-presenter/ProWeavePresenter-linux-amd64-v1.2.6.deb
+Size: 84825482
+SHA256: e5f5b768cd65ee52fbb6f4289f0ebd0653e29c28425a0990cbee5979b0b19b8b
+SHA512: 72bfe1e1316712b24b1a4edfd511da53fd597e197f58d74b50072aa16055853f99916630a68bf2de582065885475ca2a4b37191387d5f6f00e953e155f6466f1

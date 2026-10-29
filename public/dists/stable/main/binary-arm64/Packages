@@ -1,17 +1,17 @@
 Package: proweave-presenter
-Version: 1.2.5
+Version: 1.2.6
 Section: sound
 Priority: optional
 Architecture: arm64
-Installed-Size: 222648
+Installed-Size: 223076
 Maintainer: SundayAssist <info@sundayassist.com>
 Homepage: https://sundayassist.com
-Depends: libgtk-3-0 | libgtk-3-0t64, libwebkit2gtk-4.1-0, libayatana-appindicator3-1, libportaudio2, libasound2-plugins, libopenblas0-pthread, hicolor-icon-theme, xdg-utils, desktop-file-utils, libavahi-client3, libavahi-common3, avahi-daemon, gstreamer1.0-tools, gstreamer1.0-libav, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, gstreamer1.0-plugins-bad, gstreamer1.0-plugins-ugly, gstreamer1.0-gl, gstreamer1.0-gtk3, gstreamer1.0-pulseaudio
+Depends: libgtk-3-0 | libgtk-3-0t64, libwebkit2gtk-4.1-0, libayatana-appindicator3-1, libportaudio2, libasound2-plugins, libopenblas0-pthread, libsecret-tools, hicolor-icon-theme, xdg-utils, desktop-file-utils, libavahi-client3, libavahi-common3, avahi-daemon, gstreamer1.0-tools, gstreamer1.0-libav, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, gstreamer1.0-plugins-bad, gstreamer1.0-plugins-ugly, gstreamer1.0-gl, gstreamer1.0-gtk3, gstreamer1.0-pulseaudio
 Recommends: ffmpeg
 Description: presentation software for churches and live services
  SundayAssist Presenter combines slide, song, Bible, media, remote-control, and
  optional on-device speech-recognition workflows in one desktop application.
-Filename: pool/main/p/proweave-presenter/ProWeavePresenter-linux-arm64-v1.2.5.deb
-Size: 80429862
-SHA256: b98bd38ac5be2f33bfb880199c61c17742d6fce761c82d0c664ccc1104dcaaa7
-SHA512: 972dfc0e0d95ea3d398b3abcb75fa557cd11e4d12958d6175fa55e8ceb7eff53af95611ca68de1c2c7e1b48c61cc9e8d74b7fa043f2960b4065be54b1a9d4c34
+Filename: pool/main/p/proweave-presenter/ProWeavePresenter-linux-arm64-v1.2.6.deb
+Size: 80597860
+SHA256: d9288ca94a5efc12da75115b1a97408ff21d0f8603532cbee2318b81bdd8b735
+SHA512: dd5bdbf474a23d6a3930c8a8b6424b9d191f2b576143cdd50663f828b19206e7988034d04006b26030b97a2d6f5d624a1af8434755ba476540aece37f618b6cf
