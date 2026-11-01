@@ -1,2 +1,2 @@
-# ProWeave Church Software
-Releases of the ProWeave Present app (proweave.app) are hosted here
+# SundayAssist Church Software
+Releases of the SundayAssist Presenter app (sundayassist.com) are hosted here
